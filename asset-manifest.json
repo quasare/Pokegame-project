@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quasare/Pokegame-project.git/static/css/main.e3ccdd15.chunk.css",
-    "main.js": "/quasare/Pokegame-project.git/static/js/main.dfb21ee9.chunk.js",
-    "main.js.map": "/quasare/Pokegame-project.git/static/js/main.dfb21ee9.chunk.js.map",
-    "runtime~main.js": "/quasare/Pokegame-project.git/static/js/runtime~main.b1e2fc1a.js",
-    "runtime~main.js.map": "/quasare/Pokegame-project.git/static/js/runtime~main.b1e2fc1a.js.map",
-    "static/js/2.2036385c.chunk.js": "/quasare/Pokegame-project.git/static/js/2.2036385c.chunk.js",
-    "static/js/2.2036385c.chunk.js.map": "/quasare/Pokegame-project.git/static/js/2.2036385c.chunk.js.map",
-    "index.html": "/quasare/Pokegame-project.git/index.html",
-    "precache-manifest.4fee74b9d31fe3d456be97fdcf8fc7b0.js": "/quasare/Pokegame-project.git/precache-manifest.4fee74b9d31fe3d456be97fdcf8fc7b0.js",
-    "service-worker.js": "/quasare/Pokegame-project.git/service-worker.js",
-    "static/css/main.e3ccdd15.chunk.css.map": "/quasare/Pokegame-project.git/static/css/main.e3ccdd15.chunk.css.map"
+    "main.css": "/Pokegame-project/static/css/main.e3ccdd15.chunk.css",
+    "main.js": "/Pokegame-project/static/js/main.173dc65b.chunk.js",
+    "main.js.map": "/Pokegame-project/static/js/main.173dc65b.chunk.js.map",
+    "runtime~main.js": "/Pokegame-project/static/js/runtime~main.79d20522.js",
+    "runtime~main.js.map": "/Pokegame-project/static/js/runtime~main.79d20522.js.map",
+    "static/js/2.2036385c.chunk.js": "/Pokegame-project/static/js/2.2036385c.chunk.js",
+    "static/js/2.2036385c.chunk.js.map": "/Pokegame-project/static/js/2.2036385c.chunk.js.map",
+    "index.html": "/Pokegame-project/index.html",
+    "precache-manifest.a32c270d09a43b3211b172c5c242c76f.js": "/Pokegame-project/precache-manifest.a32c270d09a43b3211b172c5c242c76f.js",
+    "service-worker.js": "/Pokegame-project/service-worker.js",
+    "static/css/main.e3ccdd15.chunk.css.map": "/Pokegame-project/static/css/main.e3ccdd15.chunk.css.map"
   }
 }
